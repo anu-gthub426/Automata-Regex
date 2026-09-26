@@ -297,7 +297,7 @@ The benchmark uses a **2-second subprocess timeout** for Python's `re` so that a
 |           25 |    0.008 ms | **TIMEOUT** |
 |           30 |    0.008 ms | **TIMEOUT** |
 
-![Benchmark: (a+)+b](benchmarks/a__b_benchmark.png)
+![Benchmark: (a+)+b](benchmarks/a++b_benchmark.png)
 
 ---
 
